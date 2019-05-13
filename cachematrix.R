@@ -1,4 +1,4 @@
-## Computes the inverse of a matrix
+## Computes the inverse of a matrixx
 ## Caches the inverse once calculated or uses cached data to retrieve already computed inverse matrix
 
 ## Creates a speacial list matrix that caches the inverse
